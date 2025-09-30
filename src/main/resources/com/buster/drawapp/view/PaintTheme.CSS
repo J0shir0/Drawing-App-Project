@@ -1,0 +1,40 @@
+.menu-bar{
+    -fx-background-color: derive(#D94C36, 20%);
+    -fx-font-family: "sans-serif";
+    -fx-font-size: 14px;
+
+}
+.menu-bar .label{
+    -fx-text-fill: white;
+}
+
+.context-menu{
+    -fx-background-color: derive(#a93f55, 50%);
+}
+
+#leftPanel{
+    -fx-background-color: #2f52e0;
+}
+
+.color-picker{
+    -fx-border-color: #ff715b;
+    -fx-background-color: #bced09;
+    -fx-text-fill: #2f52e0;
+    -fx-border-radius: 2px;
+}
+
+#bsize:hover .tooltip{
+    display: block;
+    opacity: 1;
+}
+
+.tooltip {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    opacity: 0; /* Initial opacity */
+    transition: opacity 0.2s ease-in-out;
+}
