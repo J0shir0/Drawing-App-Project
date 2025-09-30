@@ -24,5 +24,6 @@ It allows users to sketch on a canvas, switch between brush and eraser tools, ch
 Here is an example drawing demonstrating the user interface with brush, eraser, color picker, brush size control, and save options.
 ![NotesApp Screenshot](megaman_drawing_UI_demo.png)
 
+
 Here is a sample drawing created with multiple colors, showing the app’s color selection and drawing capabilities.
 ![NotesApp Screenshot](sonic_drawing_demo.png)
