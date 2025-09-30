@@ -8,7 +8,7 @@ It allows users to sketch on a canvas, switch between brush and eraser tools, ch
 - Save canvas as PNG
 - MVC architecture
 
-## 🛠 Tech Stack
+## Tech Stack
 - Scala 2.12.19  
 - JavaFX 17  
 - ScalaFX 17  
